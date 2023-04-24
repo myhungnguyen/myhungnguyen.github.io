@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!-- home.html -->
+
+<div>
+    <header>
+        <h1>Author: My-Hung Nguyen</h1>
+    </header>
+
+    <article>
+        <p>Curriculum vitae (CV)</p>
+        <p>Design Research Compendiums (DRC)</p>
+        <p>Project booklets (available editions)</p>
+    </article>
+
+    <article>
+        <!-- News -->
+        {% if page.news -%}
+        <!-- <h2><a href="{{ '/designs/' | relative_url }}" style="color: inherit;">designs</a></h2> -->
+        
+        <br>
+        <br>
+        <h2>Projects</h2>
+        <hr>
+
+        {%- include news.html %}
+         {%- endif %}
+    </article>
+
+    <article>
+      {{ content }}
+    </article>
+</div>
+
+
+

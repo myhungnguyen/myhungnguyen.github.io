@@ -1,0 +1,31 @@
+---
+layout: page
+title: Meleidoscope
+description: Urban theories; Soundscape studies; Experience design
+location: Melbourne, AU.
+date: 2021-11-07 16:11:00-0400
+inline: false
+related_posts: false
+---
+
+**ECO-VAN THANH VILLAGE REGENERATION**
+
+
+**Year**: November, 2021
+
+
+**Award**: <a href="https://www.rmitmdit.com/major-projects" target="_blank" style="text decoration:underline; color: blue;">Innovation award</a>
+
+
+**Location**: Melbourne, AU.
+​
+
+**Researcher & artist**: My-Hung Nguyen
+
+
+**Supervision**: Dr. Ross Mcleod, Dr.Jeff Hannam
+
+<br>
+<hr>
+
+<iframe src="/assets/pdf/Meleidoscope_Hung Nguyen Edition 2023 (spread).pdf#zoom=40" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>

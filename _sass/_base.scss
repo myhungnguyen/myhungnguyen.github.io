@@ -302,11 +302,12 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
-        color: var(--global-text-color);
+        // color: var(--global-text-color);
+        color: #323030;
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -319,7 +320,7 @@ blockquote {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 }
 
@@ -635,7 +636,6 @@ footer.sticky-bottom {
           padding-right: 1rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
-          margin-left: 0;
 
           &:hover {
             color: var(--global-theme-color);
@@ -645,12 +645,11 @@ footer.sticky-bottom {
       }
 
       .badges {
-        padding-bottom: 0.5rem;
         span {
           display: inline-block;
           color: $black-color;
           height: 100%;
-          padding-right: 0.5rem;
+          padding-left: 0.5rem;
           vertical-align: middle;
 
           &:hover {
@@ -857,4 +856,17 @@ pre {
     color: var(--global-hover-color);
     opacity: 1;
   }
+}
+
+
+// key-projects-on-homepage
+#key-projects{
+  list-style: none;
+  font-size: 0.8rem;
+
+}
+
+
+#overide-news-title{
+  color: #000000;
 }

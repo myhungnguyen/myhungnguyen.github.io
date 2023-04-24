@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: 2019 Urban Design
 description: another without an image
 img:
 importance: 3
-category: fun
+category: 2019
 ---
 
 Every project has a beautiful feature showcase page.

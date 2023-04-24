@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
+title: 2021 Meleidoscope
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: #assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: 2021
 ---
 
 Every project has a beautiful feature showcase page.
