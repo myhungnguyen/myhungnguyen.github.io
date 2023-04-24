@@ -29,4 +29,4 @@ related_posts: false
 <br>
 <hr>
 
-<iframe src="/assets/pdf/2019_Hung Nguyen_Van Thanh Eco-farming Regeneration (compressed)_Urban design.pdf#view=fitH" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/assets/pdf/2019_Hung Nguyen_Van Thanh Eco-farming Regeneration (compressed)_Urban design.pdf#view=fitH" width="100%" height="900" scrolling="auto" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
