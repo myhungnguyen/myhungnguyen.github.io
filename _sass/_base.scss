@@ -307,13 +307,13 @@ blockquote {
     a {
       i::before {
         // color: var(--global-text-color);
-        color: #323030;
+        color: #6d6d6d;
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: black;
         }
       }
     }
