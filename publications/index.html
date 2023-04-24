@@ -37,7 +37,7 @@
     
     <!-- Dark Mode -->
     
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/.css" media="none" id="highlight_theme_dark">
 
     <script src="/assets/js/theme.js"></script>
     <script src="/assets/js/dark_mode.js"></script>
@@ -68,46 +68,28 @@
 
               <!-- About -->
               <li class="nav-item ">
-                <a class="nav-link" href="/">about</a>
+                <a class="nav-link" href="/">home</a>
               </li>
               
-              <!-- Blog -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/blog/">blog</a>
-              </li>
 
               <!-- Other pages -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/publications/">publications<span class="sr-only">(current)</span></a>
-              </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/projects/">projects</a>
-              </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/repositories/">repositories</a>
+                <a class="nav-link" href="/about/">about</a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/cv/">cv</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/teaching/">teaching</a>
-              </li>
-              <li class="nav-item dropdown ">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">submenus</a>
-                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="/publications/">publications</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="/projects/">projects</a>
-                </div>
+                <a class="nav-link" href="/folio/">folio</a>
               </li>
 
               <!-- Toogle theme mode -->
-              <li class="toggle-container">
+              <!-- <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
                 </button>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
@@ -143,6 +125,10 @@
 <figure>
 
   <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/wave-mechanics.gif-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/wave-mechanics.gif-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/wave-mechanics.gif-1400.webp"></source>
     
 
     <!-- Fallback to the original file -->
@@ -193,7 +179,7 @@
           
           <div class="badges">
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
           <!-- Hidden bibtex block -->
@@ -217,6 +203,10 @@
 <figure>
 
   <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/brownian-motion.gif-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/brownian-motion.gif-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/brownian-motion.gif-1400.webp"></source>
     
 
     <!-- Fallback to the original file -->
@@ -255,7 +245,7 @@
           
           <div class="badges">
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
           <!-- Hidden bibtex block -->
@@ -264,7 +254,7 @@
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Investigations on the Theory of the Brownian Movement}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Einstein, Albert}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{1956}</span><span class="p">,</span>
-  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Courier Corporation}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Courier Corporation,}</span><span class="p">,</span>
 <span class="p">}</span></code></pre></figure>
           </div>
         </div>
@@ -291,7 +281,7 @@
         
         
         <div class="periodical">
-          <em>American Journal of Physics</em>, 1950
+          <em>American Journal of Physics,</em>, 1950
         </div>
         <div class="periodical">
           
@@ -304,7 +294,7 @@
           
           <div class="badges">
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
           <!-- Hidden bibtex block -->
@@ -312,12 +302,12 @@
             <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">einstein1950meaning</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{The meaning of relativity}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Einstein, Albert and Taub, AH}</span><span class="p">,</span>
-  <span class="na">journal</span> <span class="p">=</span> <span class="s">{American Journal of Physics}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{American Journal of Physics,}</span><span class="p">,</span>
   <span class="na">volume</span> <span class="p">=</span> <span class="s">{18}</span><span class="p">,</span>
   <span class="na">number</span> <span class="p">=</span> <span class="s">{6}</span><span class="p">,</span>
   <span class="na">pages</span> <span class="p">=</span> <span class="s">{403--404}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{1950}</span><span class="p">,</span>
-  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{American Association of Physics Teachers}</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{American Association of Physics Teachers,}</span>
 <span class="p">}</span></code></pre></figure>
           </div>
         </div>
@@ -345,7 +335,7 @@
         
         
         <div class="periodical">
-          <em>Phys. Rev.</em>, May 1935
+          <em>Phys. Rev.,</em>, May 1935
         </div>
         <div class="periodical">
           
@@ -360,7 +350,7 @@
           
           <div class="badges">
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1103/PhysRev.47.777"></span>
-              <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
           <!-- Hidden abstract block -->
@@ -393,7 +383,7 @@
         
         
         <div class="periodical">
-          <em>Annalen der physik</em>, May 1905
+          <em>Annalen der physik,</em>, May 1905
         </div>
         <div class="periodical">
           
@@ -405,7 +395,7 @@
           
           <div class="badges">
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
           
@@ -432,7 +422,7 @@
         
         
         <div class="periodical">
-          <em>Ann. Phys.</em>, May 1905
+          <em>Ann. Phys.,</em>, May 1905
         </div>
         <div class="periodical">
           
@@ -444,7 +434,7 @@
           
           <div class="badges">
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
           
@@ -483,7 +473,7 @@
           
           <div class="badges">
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
-              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
           </div>
 
           
@@ -521,10 +511,7 @@
   <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
   <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
-    
-  <!-- Medium Zoom JS -->
-  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
-  <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
+    <!-- Load Common JS -->
   <script defer src="/assets/js/common.js"></script>
   <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
 
