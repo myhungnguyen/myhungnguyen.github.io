@@ -16,12 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**My-Hung Nguyen** is a junior designer experienced +1.5 year of urban design & architecture; +6.5 years of urbanism, urban design interdisciplinary academic research. She graduated from the university of Ho Chi Minh of Architecture in 2018 for **bachelor of Urban Design**; the Royal Melbourne Institute of Technology in 2021 for **master of Design, Innovation and Technology**.
+**My-Hung Nguyen** is a junior designer who has experience of +1.5 year in urban design and architecture; +6.5 years of academic research in urbanism and interdisciplinary design practice.   
 
-Her major (+interests) is trajectoried between three main domains: **Urbanism, Landscape Architecture, Tech+Art**. Progressively, the encounters of other disciplines are supportive for those three main domains.
+She graduated from the university of Ho Chi Minh of Architecture in 2018 for Bachelor of Urban Design; and the Royal Melbourne Institute of Technology (RMIT) in 2021 for Master of Design, Innovation and Technology.  
 
-She is best critiqued in **critical thinking & analytical skill** for urban design strategy: effectively inter-connecting disciplines for improvements towards human interactions, identical and cultural values, sustainability, further, innovation and novelty.
+Her major with interests is intersected between three domains: Urbanism, Landscape Architecture and Tech+Art. In the process, the encounters of other disciplines are supportive for those three main domains.    
 
-Currently, she puts effort in recollecting and refining **design framework/structure/methodology** which is reflected upon her series of publications in design research and practice.
+She is best critiqued for her critical thinking and analytical skill. This skillset helps for urban design strategy: connecting disciplines for improvements towards human interaction, identical and cultural values, sustainability, innovation and novelty. This strength is reflected upon her two academic awarded projects in the years of 2019 and 2021. 
 
-Besides, supportive team companionship is crucial for her to reflect-then-object subjective and biased perspective, to propose higher conclusive solutions for clients, customers and the public.
+Currently, she has focused on recollecting and refining design framework and methodology in design practice. This is reflected upon her series of publications which are presented on the website. 
