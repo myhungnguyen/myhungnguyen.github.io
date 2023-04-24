@@ -781,6 +781,11 @@ pre:active .copy, pre:focus .copy, pre:hover .copy {
   color: #000000;
 }
 
+#author-desc {
+  list-style: none;
+  margin-left: -40px;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
