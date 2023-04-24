@@ -8,8 +8,6 @@ inline: false
 related_posts: false
 ---
 
-**ECO-VAN THANH VILLAGE REGENERATION**
-
 
 **Year**: November, 2021
 
