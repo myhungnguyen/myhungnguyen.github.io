@@ -23,4 +23,5 @@ related_posts: false
 <br>
 <hr>
 
-<iframe src="/assets/pdf/2023 Project 01 Civic housing.pdf#view=fitH" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<!-- <iframe src="/assets/pdf/2023 Project 01 Civic housing.pdf#view=fitH" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 400px;" src="https://heyzine.com/flip-book/bcb0df15f9.html"></iframe>
