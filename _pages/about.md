@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 **My-Hung Nguyen** is a junior designer who has experience of +1.5 year in urban design and architecture; +6.5 years of academic research in urbanism and interdisciplinary design practice.   
 
-She graduated from the university of Ho Chi Minh of Architecture in 2018 for Bachelor of Urban Design; and the Royal Melbourne Institute of Technology (RMIT) in 2021 for Master of Design, Innovation and Technology.  
+She graduated from the university of Architecture Hochiminh City (UAH) in 2018 for Bachelor of Urban Design; and the Royal Melbourne Institute of Technology (RMIT) in 2021 for Master of Design, Innovation and Technology.   
 
 Her major with interests is intersected between three domains: Urbanism, Landscape Architecture and Tech+Art. In the process, the encounters of other disciplines are supportive for those three main domains.    
 
