@@ -11,9 +11,6 @@ related_posts: false
 **Year**: March 2023
 
 
-**Award**: Jury prize Loa Thanh
-
-
 **Location**: 39 Đ. Cao Lo Street, Ward No.4, District 8, Ho Chi Minh City.
 ​
 
