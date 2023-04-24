@@ -6,6 +6,7 @@ location: Tan Thach commune, Chau Thanh town, Ben Tre province, Vietnam.
 date: 2023-01-01
 inline: false
 related_posts: false
+pdf: "2023 Project 01 Civic housing.pdf"
 ---
 
 
@@ -22,6 +23,7 @@ related_posts: false
 
 <br>
 <hr>
+<h2>{% if page.pdf %}<a href="{{ page.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h2>
 
 <iframe src="/assets/pdf/2023 Project 01 Civic housing.pdf#view=fitH" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
