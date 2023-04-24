@@ -10,16 +10,16 @@ pdf: "2023 Project 01 Civic housing.pdf"
 ---
 
 
-**Year**: Nov 2022 - March 2023
+<p><b>Year:</b> Nov 2022 - March 2023</p>
+
+{% if page.location %}
+<p><b>Location:</b> {{ page.location}}</p>
+{% endif %}
+
+<p><b>Supervision:</b> Vo Ngoc Truong</p>
+<p><b>Architectural designer:</b> My-Hung Nguyen</p>
 
 
-**Location**: Tan Thach commune, Chau Thanh town, Ben Tre province, Vietnam.
-​
-
-**Architectural designer**: My-Hung Nguyen
-
-
-**Supervision**: Vo Ngoc Truong
 
 <br>
 <hr>

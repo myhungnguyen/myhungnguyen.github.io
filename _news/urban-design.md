@@ -3,7 +3,9 @@ layout: page
 title: "Urban design: Eco-Van Thanh village Regeneration"
 description: Urban planning, urban design
 location: Van Thanh, Da Lat city, Lam Dong province, Vietnam. 
-date: 2019-01-01
+date: 2019-09-01
+award: "Jury prize Loa Thanh"
+award_related_link: "https://www.tapchikientruc.com.vn/cuoc-thi/thiet-ke-do-thi-tai-tao-lang-nong-nghiep-sinh-thai-van-thanh-giai-hoi-dong.html"
 inline: false
 related_posts: false
 ---
@@ -12,19 +14,23 @@ related_posts: false
 **ECO-VAN THANH VILLAGE REGENERATION**
 
 
-**Year**: 2019​
+{% if page.date %}
+<p><b>Year:</b> {{ page.date | date: "%Y" }}</p>
+{% endif %}
 
 
-**Award**: <a href="https://www.tapchikientruc.com.vn/cuoc-thi/thiet-ke-do-thi-tai-tao-lang-nong-nghiep-sinh-thai-van-thanh-giai-hoi-dong.html" target="_blank" style="text decoration:underline; color: blue;">Jury prize Loa Thanh</a>
+{% if page.award %}
+<p><b>Award:</b> <a href="{{page.award_related_link}}" target="_blank" style="color: blue;">{{page.award}}</a></p>
+{% endif %}
 
 
-**Location**: Van Thanh, Da Lat city, Lam Dong province, Vietnam.
-​
+{% if page.location %}
+<p><b>Location:</b> {{ page.location}}</p>
+{% endif %}
 
-**Designer & researcher**: My-Hung Nguyen
+<p><b>Supervision:</b> Dr. Nguyen Cam Duong Ly</p>
+<p><b>Designer & researcher:</b> My-Hung Nguyen</p>
 
-
-**Supervision**: Dr. Nguyen Cam Duong Ly
 
 <br>
 <hr>
