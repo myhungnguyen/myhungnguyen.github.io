@@ -21,7 +21,7 @@ related_posts: false
 **Researcher & artist**: My-Hung Nguyen
 
 
-**Supervision**: Dr. Ross Mcleod, Dr.Jeff Hannam
+**Supervision**: Dr. Ross Mcleod, Dr.Jeffrey Hannam
 
 <br>
 <hr>
