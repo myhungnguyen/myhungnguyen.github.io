@@ -28,8 +28,8 @@ related_posts: false
 <p><b>Location:</b> {{ page.location}}</p>
 {% endif %}
 
-<p><b>Supervision:</b> Dr. Nguyen Cam Duong Ly</p>
 <p><b>Designer & researcher:</b> My-Hung Nguyen</p>
+<p><b>Supervision:</b> Dr. Nguyen Cam Duong Ly</p>
 
 
 <br>

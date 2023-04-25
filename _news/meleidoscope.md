@@ -23,8 +23,8 @@ related_posts: false
 <p><b>Location:</b> {{ page.location}}</p>
 {% endif %}
 
-<p><b>Supervision:</b> Dr. Ross Mcleod, Dr. Jeffrey Hannam</p>
 <p><b>Researcher & artist:</b> My-Hung Nguyen</p>
+<p><b>Supervision:</b> Dr. Ross Mcleod, Dr. Jeffrey Hannam</p>
 
 
 

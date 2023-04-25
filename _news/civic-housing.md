@@ -16,8 +16,8 @@ pdf: "2023 Project 01 Civic housing.pdf"
 <p><b>Location:</b> {{ page.location}}</p>
 {% endif %}
 
-<p><b>Supervision:</b> Vo Ngoc Truong</p>
 <p><b>Architectural designer:</b> My-Hung Nguyen</p>
+<p><b>Supervision:</b> Vo Ngoc Truong</p>
 
 
 
