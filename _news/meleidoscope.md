@@ -31,8 +31,5 @@ related_posts: false
 <br>
 <hr>
 
-<!-- <iframe src="/assets/pdf/Meleidoscope_Hung Nguyen Edition 2023 (spread).pdf#zoom=40" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
-<!-- <iframe src="/assets/pdf/2021_Hung Nguyen_Awarded project_Meleidoscope (spread)_compressed.pdf#view=fitH" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
-
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/120a82a491.html" style="border: 1px solid lightgray; width: 100%; height: 400px;"></iframe>
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/c06fe1e013.html" style="border: 1px solid lightgray; width: 100%; height: 400px;"></iframe>
