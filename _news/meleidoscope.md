@@ -32,4 +32,4 @@ related_posts: false
 <hr>
 
 
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/c06fe1e013.html" style="border: 1px solid lightgray; width: 100%; height: 400px;"></iframe>
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/e7124a21c8.html" style="border: 1px solid lightgray; width: 100%; height: 400px;"></iframe>
