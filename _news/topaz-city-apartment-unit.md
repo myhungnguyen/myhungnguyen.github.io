@@ -25,6 +25,8 @@ pdf: "2023 03 folio Topaz city apartment interior design.pdf"
 <hr>
 <h2>{% if page.pdf %}<a href="{{ page.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h2>
 
-<iframe src="/assets/pdf/2023 03 folio Topaz city apartment interior design.pdf#view=fitH" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/assets/pdf/2023 Project 02 Topaz city apartment interior design.pdf#view=fitH" width="100%" height="900" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-<!-- <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 400px;" src="https://heyzine.com/flip-book/e8c5cece62.html"></iframe> -->
+
+
+
