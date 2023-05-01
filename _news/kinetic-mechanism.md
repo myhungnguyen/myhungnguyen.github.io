@@ -7,6 +7,7 @@ date: 2021-03-01
 inline: false
 related_posts: false
 pdf: "Kinetic Mechanism.pdf"
+video: "3D_0609_2032 - compressed.mp4"
 ---
 
 
@@ -31,9 +32,9 @@ pdf: "Kinetic Mechanism.pdf"
 
 <figure>
   <video width="100%" height=auto controls>
-    <source src="/assets/video/3D_0609_2032.mp4" type="video/mp4">
-    <source src="movie.ogg" type="video/ogg">
-    Your browser does not support the video tag.
+    {% if page.video %}
+    <source src="/assets/video/{{page.video}}" type="video/mp4">
+    {% endif %}
   </video>
   <figcaption style="text-align: center;">Electronics is embedded into the mechanism for simulating the motions.</figcaption>
 </figure>
