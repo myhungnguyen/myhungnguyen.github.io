@@ -16,8 +16,16 @@
                   <td>
                     {% if item.inline -%} 
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                    {%- else -%} 
+                    {%- else -%}
+                    
+                      <!-- add award icon to item that has award -->
+                      {% if item.award -%}
+                      <a class="news-title" id="overide-news-title" href="{{ item.url | relative_url }}">{{ item.title }} <i class="fas fa-award"></i></a>
+                      {%- else -%}
                       <a class="news-title" id="overide-news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                      {%- endif %}
+                      <!-- endif for award icon end here -->
+
                       <ul id="key-projects">
                         <li>Category: {{item.description}}</li>
                         <li>Location: {{item.location}}</li>
