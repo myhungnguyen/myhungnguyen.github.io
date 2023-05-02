@@ -4,7 +4,7 @@ title: Meleidoscope
 description: Urban theories; Soundscape studies; Experience design
 location: Melbourne, Australia.
 date: 2021-11-07 16:11:00-0400
-award: "Innovation award"
+award: "Innovation award (RMIT MDIT)"
 award_related_link: "https://www.rmitmdit.com/major-projects"
 inline: false
 related_posts: false
