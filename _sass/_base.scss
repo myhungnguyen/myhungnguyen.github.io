@@ -217,6 +217,8 @@ blockquote {
 
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 9px;
     font-weight: bolder;
     color: var(--global-theme-color);
 
