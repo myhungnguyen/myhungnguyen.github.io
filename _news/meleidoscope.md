@@ -5,7 +5,7 @@ description: Urban theories; Soundscape studies; Experience design
 location: Melbourne, Australia.
 date: 2021-11-07 16:11:00-0400
 award: "Innovation award (RMIT MDIT)"
-award_related_link: "https://www.rmitmdit.com/major-projects"
+award_related_link: "https://www.rmitmdit.com/MajorProjectPage/2019%2F1-meleidoscope/hung-nguyen/meleidoscope/92d3dc35-2539-4657-845f-5e946ce1b9b7"
 inline: false
 related_posts: false
 ---
