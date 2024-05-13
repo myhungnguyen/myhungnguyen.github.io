@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meleidoscope
-description: Urban theories; Soundscape studies; Experience design
+description: Urban theories, Soundscape studies, Experience design
 location: Melbourne, Australia.
 date: 2021-11-07 16:11:00-0400
 award: "Innovation award (RMIT MDIT)"

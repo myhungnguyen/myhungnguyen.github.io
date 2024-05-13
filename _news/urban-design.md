@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Urban design: Eco-Van Thanh village Regeneration"
-description: Urban planning, urban design
+description: Urban planning, Urban design
 location: Van Thanh, Da Lat city, Lam Dong province, Vietnam. 
 date: 2019-09-01
 award: "Jury prize Loa Thanh"
