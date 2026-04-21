@@ -13,7 +13,7 @@
   --global-theme-color: #353434;
   --global-hover-color: #353434;
   --global-footer-bg-color: #1C1C1D;
-  --global-footer-text-color: #9b9a9a;
+  --global-footer-text-color: rgb(155.4571428571, 153.5428571429, 153.5428571429);
   --global-footer-link-color: #ffffff;
   --global-distill-app-color: #353434;
   --global-divider-color: rgba(0,0,0,.1);
@@ -37,14 +37,14 @@
 html[data-theme=dark] {
   --global-bg-color: #1C1C1D;
   --global-code-bg-color: #2c3237;
-  --global-text-color: #9b9a9a;
-  --global-text-color-light: #9b9a9a;
+  --global-text-color: rgb(155.4571428571, 153.5428571429, 153.5428571429);
+  --global-text-color-light: rgb(155.4571428571, 153.5428571429, 153.5428571429);
   --global-theme-color: #2698BA;
   --global-hover-color: #2698BA;
-  --global-footer-bg-color: #9b9a9a;
+  --global-footer-bg-color: rgb(155.4571428571, 153.5428571429, 153.5428571429);
   --global-footer-text-color: #1C1C1D;
   --global-footer-link-color: #000000;
-  --global-distill-app-color: #9b9a9a;
+  --global-distill-app-color: rgb(155.4571428571, 153.5428571429, 153.5428571429);
   --global-divider-color: #424246;
   --global-card-bg-color: #212529;
 }
