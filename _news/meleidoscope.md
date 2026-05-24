@@ -10,6 +10,7 @@ inline: false
 related_posts: false
 ---
 
+<!--
 
 {% if page.date %}
 <p><b>Year:</b> {{ page.date | date: "%Y" }}</p>
@@ -27,10 +28,17 @@ related_posts: false
 <p><b>Researcher & artist:</b> My-Hung Nguyen</p>
 <p><b>Supervision:</b> Dr. Ross Mcleod, Dr. Jeffrey Hannam</p>
 
-
+-->
 
 <br>
 <hr>
 
-
+<!--
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/e7124a21c8.html" style="border: 1px solid lightgray; width: 100%; height: 400px;"></iframe>
+-->
+
+
+
+<div>
+  <p>This project is currently undergoing updates and enhancements.</p>
+</div>
